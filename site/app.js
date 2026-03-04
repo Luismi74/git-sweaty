@@ -29,6 +29,7 @@ const UNIT_SYSTEM_TO_UNITS = Object.freeze({
   imperial: Object.freeze({ distance: "mi", elevation: "ft" }),
   metric: Object.freeze({ distance: "km", elevation: "m" }),
 });
+const PAGE_TITLE_SUFFIX = " | git-sweaty";
 
 const typeButtons = document.getElementById("typeButtons");
 const yearButtons = document.getElementById("yearButtons");
@@ -956,7 +957,7 @@ function setDashboardTitle(source) {
   if (dashboardTitle) {
     dashboardTitle.textContent = title;
   }
-  document.title = title;
+  document.title = `${title}${PAGE_TITLE_SUFFIX}`;
 }
 
 function readCssVar(name, fallback, scope) {
