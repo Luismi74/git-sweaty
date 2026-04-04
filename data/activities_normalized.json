@@ -4119,5 +4119,31 @@
     "start_date_local": "2026-04-02T16:04:20Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 5172.0,
+    "elevation_gain": 0.0,
+    "id": "17967503975",
+    "moving_time": 1974.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-04-03T17:29:15Z",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 2615.8,
+    "elevation_gain": 0.0,
+    "id": "17967826539",
+    "moving_time": 1796.0,
+    "name": "Recovery Zwift Run",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-04-03T18:14:44Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
