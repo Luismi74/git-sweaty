@@ -2870,6 +2870,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/17967826539",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 9,
+      "name": "Back to Weights",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18000186248",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5386,6 +5395,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2362.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18000186248"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2313.0
         }
       },
       "Workout": {
@@ -5473,7 +5491,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:07:21.606542+00:00",
+  "generated_at": "2026-04-06T15:13:31.259333+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
