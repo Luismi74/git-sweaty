@@ -4158,5 +4158,18 @@
     "start_date_local": "2026-04-06T09:05:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 5446.5,
+    "elevation_gain": 27.0,
+    "id": "18013330651",
+    "moving_time": 1128.0,
+    "name": "Zwift - Volcano Circuit - Saris Fluid2 Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-07T09:34:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
