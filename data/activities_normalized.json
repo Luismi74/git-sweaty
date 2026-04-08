@@ -4171,5 +4171,18 @@
     "start_date_local": "2026-04-07T09:34:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 23137.1,
+    "elevation_gain": 181.0,
+    "id": "18020712526",
+    "moving_time": 3919.0,
+    "name": "Zwift - Sand And Sequoias in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-07T19:16:44Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
