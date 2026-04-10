@@ -2906,6 +2906,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18030255151",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 11,
+      "name": "Zwift - Volcano Circuit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18042300819",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 12,
+      "name": "Zwift - Avon Flyer in New York",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18043182959",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 9,
+      "name": "Zwift - Jungle Circuit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18054010307",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5097,6 +5124,25 @@
           "distance": 22019.5,
           "elevation_gain": 48.0,
           "moving_time": 4109.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18042300819",
+            "18043182959"
+          ],
+          "count": 2,
+          "distance": 9593.2,
+          "elevation_gain": 55.0,
+          "moving_time": 1409.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18054010307"
+          ],
+          "count": 1,
+          "distance": 10144.6,
+          "elevation_gain": 148.0,
+          "moving_time": 2001.0
         }
       },
       "VirtualRun": {
@@ -5539,7 +5585,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T15:29:11.901763+00:00",
+  "generated_at": "2026-04-10T15:14:27.953558+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",

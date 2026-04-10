@@ -4197,5 +4197,44 @@
     "start_date_local": "2026-04-08T12:05:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 5805.2,
+    "elevation_gain": 28.0,
+    "id": "18042300819",
+    "moving_time": 835.0,
+    "name": "Zwift - Volcano Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T11:24:37Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 3788.0,
+    "elevation_gain": 27.0,
+    "id": "18043182959",
+    "moving_time": 574.0,
+    "name": "Zwift - Avon Flyer in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T12:35:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 10144.6,
+    "elevation_gain": 148.0,
+    "id": "18054010307",
+    "moving_time": 2001.0,
+    "name": "Zwift - Jungle Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-10T09:28:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
