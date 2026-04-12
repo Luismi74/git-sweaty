@@ -4249,5 +4249,18 @@
     "start_date_local": "2026-04-10T10:34:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 24101.5,
+    "elevation_gain": 137.0,
+    "id": "18079715438",
+    "moving_time": 4068.0,
+    "name": "Zwift - Southern Coast Cruise in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T08:03:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
