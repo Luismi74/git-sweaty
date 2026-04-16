@@ -4314,5 +4314,57 @@
     "start_date_local": "2026-04-14T09:31:17Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18125287627",
+    "moving_time": 3625.0,
+    "name": "Noon workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-15T18:01:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 12116.9,
+    "elevation_gain": 101.0,
+    "id": "18132344196",
+    "moving_time": 1825.0,
+    "name": "Zwift - Climb Portal: Cauberg at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T09:42:16Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 4764.4,
+    "elevation_gain": 40.0,
+    "id": "18132584051",
+    "moving_time": 659.0,
+    "name": "Zwift - Glasgow Crit Circuit in Scotland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T10:24:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 6052.1,
+    "elevation_gain": 12.0,
+    "id": "18132793049",
+    "moving_time": 751.0,
+    "name": "Zwift - Pacer Group Ride with Sofia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T10:41:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
