@@ -4366,5 +4366,31 @@
     "start_date_local": "2026-04-16T10:41:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 20175.5,
+    "elevation_gain": 32.0,
+    "id": "18146561116",
+    "moving_time": 2539.0,
+    "name": "Zwift - Tempus Fugit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-17T11:03:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 11826.4,
+    "elevation_gain": 97.0,
+    "id": "18147139313",
+    "moving_time": 1671.0,
+    "name": "Zwift - Race: INC RELENTLESS Sprint Series Race 2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-17T12:04:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

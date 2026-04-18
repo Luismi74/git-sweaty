@@ -3023,6 +3023,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18132793049",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 11,
+      "name": "Zwift - Tempus Fugit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18146561116",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 12,
+      "name": "Zwift - Race: INC RELENTLESS Sprint Series Race 2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18147139313",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5272,6 +5290,16 @@
           "distance": 22933.4,
           "elevation_gain": 153.0,
           "moving_time": 3235.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18146561116",
+            "18147139313"
+          ],
+          "count": 2,
+          "distance": 32001.9,
+          "elevation_gain": 129.0,
+          "moving_time": 4210.0
         }
       },
       "VirtualRun": {
@@ -5741,7 +5769,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:20:12.413883+00:00",
+  "generated_at": "2026-04-18T15:11:48.142633+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
