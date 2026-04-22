@@ -4392,5 +4392,70 @@
     "start_date_local": "2026-04-17T12:04:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 11728.0,
+    "elevation_gain": 182.0,
+    "id": "18206170190",
+    "moving_time": 2501.0,
+    "name": "Zwift - Climb Portal: Cheddar Gorge at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T20:46:05Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 5634.7,
+    "elevation_gain": 37.0,
+    "id": "18206297520",
+    "moving_time": 882.0,
+    "name": "Zwift - Prospect Park Loop in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T21:33:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 5859.2,
+    "elevation_gain": 75.0,
+    "id": "18212302936",
+    "moving_time": 1229.0,
+    "name": "Zwift - Climb Portal: Oude Kwaremont at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-22T09:48:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 3802.1,
+    "elevation_gain": 74.0,
+    "id": "18212544829",
+    "moving_time": 720.0,
+    "name": "Zwift - Climb Portal: Koppenberg at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-22T10:19:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 10505.9,
+    "elevation_gain": 46.0,
+    "id": "18212866991",
+    "moving_time": 1532.0,
+    "name": "Zwift - Pacer Group Ride with Taylor",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-22T10:34:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
