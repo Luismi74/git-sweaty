@@ -4470,5 +4470,18 @@
     "start_date_local": "2026-04-23T09:10:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 31331.2,
+    "elevation_gain": 258.0,
+    "id": "18239533248",
+    "moving_time": 4641.0,
+    "name": "Zwift - Figure 8 in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-24T09:02:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
