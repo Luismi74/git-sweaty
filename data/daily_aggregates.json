@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T15:45:30.849946+00:00",
+  "generated_at": "2026-04-29T15:35:56.039105+00:00",
   "years": {
     "2024": {
       "HighIntensityIntervalTraining": {
@@ -2287,6 +2287,24 @@
           "distance": 31331.2,
           "elevation_gain": 258.0,
           "moving_time": 4641.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18297543486"
+          ],
+          "count": 1,
+          "distance": 3628.2,
+          "elevation_gain": 57.0,
+          "moving_time": 641.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18305789386"
+          ],
+          "count": 1,
+          "distance": 18416.7,
+          "elevation_gain": 212.0,
+          "moving_time": 3034.0
         }
       },
       "VirtualRun": {
