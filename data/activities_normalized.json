@@ -4509,5 +4509,18 @@
     "start_date_local": "2026-04-29T08:15:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 10896.7,
+    "elevation_gain": 145.0,
+    "id": "18320061745",
+    "moving_time": 1836.0,
+    "name": "Zwift - Climb Portal: Poggio at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T10:24:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
