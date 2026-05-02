@@ -4535,5 +4535,31 @@
     "start_date_local": "2026-04-30T15:36:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 10538.0,
+    "elevation_gain": 133.0,
+    "id": "18337414613",
+    "moving_time": 1493.0,
+    "name": "Zwift - Toefield Tornado in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-01T15:16:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 3850.2,
+    "elevation_gain": 19.0,
+    "id": "18337529981",
+    "moving_time": 447.0,
+    "name": "Zwift - Times Square Circuit in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-01T15:50:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
