@@ -4561,5 +4561,31 @@
     "start_date_local": "2026-05-01T15:50:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 21227.5,
+    "elevation_gain": 94.0,
+    "id": "18351279356",
+    "moving_time": 2787.0,
+    "name": "Zwift - Red Zone Repeats in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-02T15:53:18Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 14827.1,
+    "elevation_gain": 72.0,
+    "id": "18351577074",
+    "moving_time": 2030.0,
+    "name": "Zwift - Neon Flats in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-02T16:50:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -3158,6 +3158,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18337529981",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 15,
+      "name": "Zwift - Red Zone Repeats in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18351279356",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 16,
+      "name": "Zwift - Neon Flats in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18351577074",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5485,6 +5503,16 @@
           "distance": 14388.2,
           "elevation_gain": 152.0,
           "moving_time": 1940.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18351279356",
+            "18351577074"
+          ],
+          "count": 2,
+          "distance": 36054.6,
+          "elevation_gain": 166.0,
+          "moving_time": 4817.0
         }
       },
       "VirtualRun": {
@@ -5963,7 +5991,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:13:49.324269+00:00",
+  "generated_at": "2026-05-03T15:13:13.713269+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
