@@ -4626,5 +4626,18 @@
     "start_date_local": "2026-05-05T09:44:44Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 13024.7,
+    "elevation_gain": 97.0,
+    "id": "18389211378",
+    "moving_time": 2026.0,
+    "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T13:39:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
