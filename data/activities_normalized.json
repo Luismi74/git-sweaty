@@ -4639,5 +4639,44 @@
     "start_date_local": "2026-05-05T13:39:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18406020948",
+    "moving_time": 2748.0,
+    "name": "Upper wrkt",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-06T19:05:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 12736.0,
+    "elevation_gain": 53.0,
+    "id": "18412834934",
+    "moving_time": 1720.0,
+    "name": "Zwift - Greater London Flat in London",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-07T09:48:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 4389.7,
+    "elevation_gain": 7.0,
+    "id": "18413163906",
+    "moving_time": 509.0,
+    "name": "Zwift - Pacer Group Ride with Bernie",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-07T10:42:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
