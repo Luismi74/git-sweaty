@@ -4691,5 +4691,31 @@
     "start_date_local": "2026-05-07T19:32:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 12878.7,
+    "elevation_gain": 87.0,
+    "id": "18429669197",
+    "moving_time": 1523.0,
+    "name": "Zwift - Group Ride: TEAM TYPE ONE STYLE Friday Fun Social Ride  (E)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-08T15:30:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 10576.6,
+    "elevation_gain": 44.0,
+    "id": "18429972986",
+    "moving_time": 1499.0,
+    "name": "Zwift - Temple Trek in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-08T16:06:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
