@@ -4717,5 +4717,31 @@
     "start_date_local": "2026-05-08T16:06:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 10243.3,
+    "elevation_gain": 105.0,
+    "id": "18444580118",
+    "moving_time": 1432.0,
+    "name": "Zwift - Lunar Light",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-09T18:01:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 14431.7,
+    "elevation_gain": 111.0,
+    "id": "18444893900",
+    "moving_time": 2411.0,
+    "name": "Zwift - Volcano Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-09T18:28:37Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
