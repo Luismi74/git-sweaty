@@ -4743,5 +4743,18 @@
     "start_date_local": "2026-05-09T18:28:37Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 23512.3,
+    "elevation_gain": 207.0,
+    "id": "18477272256",
+    "moving_time": 2740.0,
+    "name": "Zwift - Group Ride: Ride to Raise: warm-up rides",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-12T08:59:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
