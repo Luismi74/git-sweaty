@@ -4834,5 +4834,31 @@
     "start_date_local": "2026-05-15T10:49:43Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 15192.0,
+    "elevation_gain": 64.0,
+    "id": "18527417026",
+    "moving_time": 1828.0,
+    "name": "Zwift - Silk Road",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T06:20:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18527936281",
+    "moving_time": 831.0,
+    "name": "Smol Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-16T07:13:49Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
