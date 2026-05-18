@@ -4860,5 +4860,31 @@
     "start_date_local": "2026-05-16T07:13:49Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 7685.3,
+    "elevation_gain": 205.0,
+    "id": "18552991730",
+    "moving_time": 1853.0,
+    "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T06:21:05Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 6473.6,
+    "elevation_gain": 25.0,
+    "id": "18553186615",
+    "moving_time": 761.0,
+    "name": "Zwift - Classique in London",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T06:57:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
