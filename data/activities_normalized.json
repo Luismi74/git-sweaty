@@ -4886,5 +4886,31 @@
     "start_date_local": "2026-05-18T06:57:33Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 17242.2,
+    "elevation_gain": 65.0,
+    "id": "18560968928",
+    "moving_time": 2370.0,
+    "name": "Zwift - Beach Island Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T18:08:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 13219.8,
+    "elevation_gain": 51.0,
+    "id": "18561440647",
+    "moving_time": 2049.0,
+    "name": "Zwift - Volcano Flat in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T19:00:44Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
