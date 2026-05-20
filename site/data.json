@@ -3401,6 +3401,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18561440647",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 8,
+      "name": "Zwift - Volcano Climb in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18581809235",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 10,
+      "name": "Zwift - Cobbled Climbs in Richmond",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18583307266",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5847,6 +5865,16 @@
           "distance": 44620.9,
           "elevation_gain": 346.0,
           "moving_time": 7033.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18581809235",
+            "18583307266"
+          ],
+          "count": 2,
+          "distance": 33543.3,
+          "elevation_gain": 341.0,
+          "moving_time": 5043.0
         }
       },
       "VirtualRun": {
@@ -6361,7 +6389,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T16:05:08.269276+00:00",
+  "generated_at": "2026-05-20T16:10:11.466337+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",

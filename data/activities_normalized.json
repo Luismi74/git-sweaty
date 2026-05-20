@@ -4912,5 +4912,31 @@
     "start_date_local": "2026-05-18T19:00:44Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 23955.9,
+    "elevation_gain": 205.0,
+    "id": "18581809235",
+    "moving_time": 3485.0,
+    "name": "Zwift - Volcano Climb in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-20T08:29:18Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 9587.4,
+    "elevation_gain": 136.0,
+    "id": "18583307266",
+    "moving_time": 1558.0,
+    "name": "Zwift - Cobbled Climbs in Richmond",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-20T10:57:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
