@@ -3419,6 +3419,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18583307266",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 9,
+      "name": "Zwift - Flat Route in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18689453731",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 10,
+      "name": "Zwift - Croissant in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18689975412",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5875,6 +5893,16 @@
           "distance": 33543.3,
           "elevation_gain": 341.0,
           "moving_time": 5043.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18689453731",
+            "18689975412"
+          ],
+          "count": 2,
+          "distance": 26731.0,
+          "elevation_gain": 137.0,
+          "moving_time": 3918.0
         }
       },
       "VirtualRun": {
@@ -6389,7 +6417,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T16:16:32.338793+00:00",
+  "generated_at": "2026-05-28T16:25:27.758540+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
