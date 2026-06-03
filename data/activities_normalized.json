@@ -4964,5 +4964,44 @@
     "start_date_local": "2026-05-28T10:14:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 6356.4,
+    "elevation_gain": 82.0,
+    "id": "18759369115",
+    "moving_time": 875.0,
+    "name": "Zwift - Duchy Estate in Yorkshire - warm up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T13:49:33Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 25488.6,
+    "elevation_gain": 135.0,
+    "id": "18761032903",
+    "moving_time": 2908.0,
+    "name": "Zwift - Race: Stage 1: Level Up Racing: Sprinter's Playground",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T15:14:30Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18770332561",
+    "moving_time": 1553.0,
+    "name": "Morning workout \u2600\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-03T09:39:42Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
