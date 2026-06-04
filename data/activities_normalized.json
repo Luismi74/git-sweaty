@@ -5003,5 +5003,44 @@
     "start_date_local": "2026-06-03T09:39:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 5333.3,
+    "elevation_gain": 126.0,
+    "id": "18773082539",
+    "moving_time": 1034.0,
+    "name": "Zwift - Race: Micro Mountain Massif Race 2 - s/b Elite (E)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-03T13:20:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 5739.4,
+    "elevation_gain": 26.0,
+    "id": "18773445413",
+    "moving_time": 627.0,
+    "name": "Zwift - Race: RollCo: Rolling Tide - 18K (E)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-03T13:50:33Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 3095.6,
+    "elevation_gain": 53.0,
+    "id": "18774234959",
+    "moving_time": 846.0,
+    "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-03T14:34:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
