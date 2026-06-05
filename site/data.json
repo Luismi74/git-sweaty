@@ -3491,6 +3491,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18774234959",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 12,
+      "name": "Zwift - Burn Notice",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18786311723",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 13,
+      "name": "Zwift - Hilly Route in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18786676564",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5978,6 +5996,16 @@
           "distance": 14168.300000000001,
           "elevation_gain": 205.0,
           "moving_time": 2507.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18786311723",
+            "18786676564"
+          ],
+          "count": 2,
+          "distance": 25175.6,
+          "elevation_gain": 270.0,
+          "moving_time": 3188.0
         }
       },
       "VirtualRun": {
@@ -6501,7 +6529,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T16:06:52.607053+00:00",
+  "generated_at": "2026-06-05T15:58:44.101070+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
