@@ -5068,5 +5068,31 @@
     "start_date_local": "2026-06-04T13:01:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 15220.3,
+    "elevation_gain": 71.0,
+    "id": "18800217481",
+    "moving_time": 1827.0,
+    "name": "Zwift - Turn the Screw",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-05T13:49:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 6943.9,
+    "elevation_gain": 33.0,
+    "id": "18800827117",
+    "moving_time": 906.0,
+    "name": "Zwift - Red Shift",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-05T15:07:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
