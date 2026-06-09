@@ -3554,6 +3554,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18828446566",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 20,
+      "name": "Zwift - Aurora",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18844387332",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 20,
+      "name": "Zwift - Group Ride: The XP Express with Team Vegan  (E)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18844777150",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6071,6 +6089,16 @@
           "distance": 28101.5,
           "elevation_gain": 360.0,
           "moving_time": 4027.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18844387332",
+            "18844777150"
+          ],
+          "count": 2,
+          "distance": 33346.4,
+          "elevation_gain": 158.0,
+          "moving_time": 4105.0
         }
       },
       "VirtualRun": {
@@ -6603,7 +6631,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T16:22:44.820990+00:00",
+  "generated_at": "2026-06-09T15:59:24.445768+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",

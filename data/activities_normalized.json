@@ -5133,5 +5133,31 @@
     "start_date_local": "2026-06-07T14:03:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 13509.0,
+    "elevation_gain": 126.0,
+    "id": "18844387332",
+    "moving_time": 1841.0,
+    "name": "Zwift - Aurora",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-08T20:22:57Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 19837.4,
+    "elevation_gain": 32.0,
+    "id": "18844777150",
+    "moving_time": 2264.0,
+    "name": "Zwift - Group Ride: The XP Express with Team Vegan  (E)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-08T20:59:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
