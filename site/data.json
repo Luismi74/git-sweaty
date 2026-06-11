@@ -3581,6 +3581,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18857026341",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 18,
+      "name": "Evening workout \ud83c\udfcb\ufe0f",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18871694511",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 20,
+      "name": "Zwift - London 8 in London",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18872340081",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6117,6 +6135,15 @@
           "distance": 25409.3,
           "elevation_gain": 293.0,
           "moving_time": 3202.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18872340081"
+          ],
+          "count": 1,
+          "distance": 22166.8,
+          "elevation_gain": 272.0,
+          "moving_time": 3179.0
         }
       },
       "VirtualRun": {
@@ -6562,6 +6589,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1470.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18871694511"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2819.0
         }
       },
       "Workout": {
@@ -6649,7 +6685,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T16:15:49.897617+00:00",
+  "generated_at": "2026-06-11T16:22:24.468960+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
