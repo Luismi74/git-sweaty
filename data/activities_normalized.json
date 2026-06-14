@@ -5224,5 +5224,31 @@
     "start_date_local": "2026-06-12T19:40:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 8623.5,
+    "elevation_gain": 309.0,
+    "id": "18917876172",
+    "moving_time": 1869.0,
+    "name": "Zwift - Oh Hill No in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-14T09:31:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 14208.1,
+    "elevation_gain": 378.0,
+    "id": "18918665600",
+    "moving_time": 2816.0,
+    "name": "Zwift - Jungle Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-14T10:13:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

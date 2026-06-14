@@ -3617,6 +3617,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18896628951",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 9,
+      "name": "Zwift - Oh Hill No in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18917876172",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 10,
+      "name": "Zwift - Jungle Circuit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18918665600",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6172,6 +6190,16 @@
           "distance": 26430.1,
           "elevation_gain": 638.0,
           "moving_time": 4731.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18917876172",
+            "18918665600"
+          ],
+          "count": 2,
+          "distance": 22831.6,
+          "elevation_gain": 687.0,
+          "moving_time": 4685.0
         }
       },
       "VirtualRun": {
@@ -6713,7 +6741,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T15:30:34.129680+00:00",
+  "generated_at": "2026-06-14T15:32:05.288567+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
