@@ -3644,6 +3644,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18940566514",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 14,
+      "name": "Zwift - Loop de Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18962362244",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 15,
+      "name": "Zwift - Flatland Loop in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18963175902",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6209,6 +6227,16 @@
           "distance": 22831.6,
           "elevation_gain": 687.0,
           "moving_time": 4685.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18962362244",
+            "18963175902"
+          ],
+          "count": 2,
+          "distance": 27067.4,
+          "elevation_gain": 246.0,
+          "moving_time": 3749.0
         }
       },
       "VirtualRun": {
@@ -6759,7 +6787,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T16:14:24.876480+00:00",
+  "generated_at": "2026-06-18T16:08:20.441415+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
