@@ -3662,6 +3662,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18963175902",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 17,
+      "name": "Zwift - Jungle Circuit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18989294718",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6237,6 +6246,15 @@
           "distance": 27067.4,
           "elevation_gain": 246.0,
           "moving_time": 3749.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18989294718"
+          ],
+          "count": 1,
+          "distance": 14011.2,
+          "elevation_gain": 100.0,
+          "moving_time": 2223.0
         }
       },
       "VirtualRun": {
@@ -6787,7 +6805,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T15:59:48.395753+00:00",
+  "generated_at": "2026-06-20T15:31:04.698532+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
