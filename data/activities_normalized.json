@@ -5328,5 +5328,31 @@
     "start_date_local": "2026-06-21T10:14:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 13304.8,
+    "elevation_gain": 67.0,
+    "id": "19013471281",
+    "moving_time": 1982.0,
+    "name": "Zwift - Volcano Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-21T13:01:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 12315.3,
+    "elevation_gain": 114.0,
+    "id": "19013826111",
+    "moving_time": 1715.0,
+    "name": "Zwift - London Flat in London",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-21T13:42:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
