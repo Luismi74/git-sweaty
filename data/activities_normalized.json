@@ -5354,5 +5354,57 @@
     "start_date_local": "2026-06-21T13:42:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19026777267",
+    "moving_time": 2860.0,
+    "name": "Day A: Upper Push",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T15:14:29Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 3244.9,
+    "elevation_gain": 23.0,
+    "id": "19029864268",
+    "moving_time": 408.0,
+    "name": "Zwift - Pacer Group Ride with Bernie",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-22T22:01:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 4874.2,
+    "elevation_gain": 46.0,
+    "id": "19030025673",
+    "moving_time": 684.0,
+    "name": "Zwift - London Loop in London",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-22T22:25:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 19790.1,
+    "elevation_gain": 59.0,
+    "id": "19036075396",
+    "moving_time": 2600.0,
+    "name": "Zwift - Tick Tock in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T09:11:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
