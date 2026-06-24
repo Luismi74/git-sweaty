@@ -3743,6 +3743,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19036075396",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 19,
+      "name": "Zwift - Group Ride: The XP Express",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19042513313",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 20,
+      "name": "Zwift - Race: Stage 4: Level Up Racing: Issendorf Express (D)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19043185447",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6352,12 +6370,14 @@
         },
         "2026-06-23": {
           "activity_ids": [
-            "19036075396"
+            "19036075396",
+            "19042513313",
+            "19043185447"
           ],
-          "count": 1,
-          "distance": 19790.1,
-          "elevation_gain": 59.0,
-          "moving_time": 2600.0
+          "count": 3,
+          "distance": 54056.7,
+          "elevation_gain": 249.0,
+          "moving_time": 6681.0
         }
       },
       "VirtualRun": {
@@ -6917,7 +6937,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T15:58:07.940163+00:00",
+  "generated_at": "2026-06-24T15:44:09.413384+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",

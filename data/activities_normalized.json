@@ -5406,5 +5406,31 @@
     "start_date_local": "2026-06-23T09:11:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 12269.7,
+    "elevation_gain": 32.0,
+    "id": "19042513313",
+    "moving_time": 1308.0,
+    "name": "Zwift - Group Ride: The XP Express",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T19:24:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 21996.9,
+    "elevation_gain": 158.0,
+    "id": "19043185447",
+    "moving_time": 2773.0,
+    "name": "Zwift - Race: Stage 4: Level Up Racing: Issendorf Express (D)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T20:13:47Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
