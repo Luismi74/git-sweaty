@@ -5458,5 +5458,31 @@
     "start_date_local": "2026-06-26T08:13:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 10357.8,
+    "elevation_gain": 74.0,
+    "id": "19078376227",
+    "moving_time": 1234.0,
+    "name": "Zwift - Loch Loop in Scotland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-26T17:51:04Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 16613.5,
+    "elevation_gain": 72.0,
+    "id": "19078755941",
+    "moving_time": 1883.0,
+    "name": "Zwift - Press Play",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-26T18:25:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
