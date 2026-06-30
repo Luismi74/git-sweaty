@@ -5484,5 +5484,44 @@
     "start_date_local": "2026-06-26T18:25:36Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 58442.1,
+    "elevation_gain": 356.0,
+    "id": "19113960381",
+    "moving_time": 7720.0,
+    "name": "Zwift - Spiral into the Volcano in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-29T12:12:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19117683684",
+    "moving_time": 1496.0,
+    "name": "Evening workout \ud83c\udfcb\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-29T20:50:57Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 7223.0,
+    "elevation_gain": 80.0,
+    "id": "19124848621",
+    "moving_time": 1103.0,
+    "name": "Zwift - Two Bridges Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-30T10:46:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

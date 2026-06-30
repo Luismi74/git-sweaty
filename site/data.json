@@ -3797,6 +3797,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19078755941",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 12,
+      "name": "Zwift - Spiral into the Volcano in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19113960381",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 20,
+      "name": "Evening workout \ud83c\udfcb\ufe0f",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19117683684",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 10,
+      "name": "Zwift - Two Bridges Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19124848621",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6433,6 +6460,24 @@
           "distance": 26971.3,
           "elevation_gain": 146.0,
           "moving_time": 3117.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19113960381"
+          ],
+          "count": 1,
+          "distance": 58442.1,
+          "elevation_gain": 356.0,
+          "moving_time": 7720.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19124848621"
+          ],
+          "count": 1,
+          "distance": 7223.0,
+          "elevation_gain": 80.0,
+          "moving_time": 1103.0
         }
       },
       "VirtualRun": {
@@ -6914,6 +6959,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3962.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19117683684"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1496.0
         }
       },
       "Workout": {
@@ -7001,7 +7055,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:17:02.657618+00:00",
+  "generated_at": "2026-06-30T15:46:22.411677+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/134976920",
   "repo": "Luismi74/git-sweaty",
